@@ -1,0 +1,40 @@
+.top-container{
+    margin: initial;
+    background-image: url("images/bg1.jpg");
+    background-size: cover; 
+    background-attachment: fixed;
+    
+    
+}
+
+.mid-container{
+    margin: initial;
+    background-image: url("images/bg2.png");
+    background-size: cover; 
+    background-attachment: fixed;
+}
+.input-group{
+    margin: auto;
+}
+input{
+  border: 3px solid #e01919;  
+  height: 40px;
+  width: 300px;
+  border-radius: 50px;
+  padding: 0px 10px;
+}
+.body{
+    margin: initial;
+
+}
+.row{
+    margin: initial;
+}
+.col-md-4{
+    margin: initial;
+    text-decoration-color: floralwhite;
+    color: cornsilk;
+}
+.b{
+    color: cornsilk;
+}
